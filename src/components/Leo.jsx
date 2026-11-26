@@ -2,7 +2,6 @@ function Leo() {
   return (
     <article className="tarjeta">
       <div className="imagen-signo">
-        ♌
       </div>
       <div className="informacion-signo">
         <p className="fechas">23 de julio – 22 de agosto</p>

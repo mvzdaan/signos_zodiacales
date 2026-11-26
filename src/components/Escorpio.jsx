@@ -2,7 +2,6 @@ function Escorpio() {
   return (
     <article className="tarjeta">
       <div className="imagen-signo">
-        ♏
       </div>
       <div className="informacion-signo">
         <p className="fechas">23 de octubre – 21 de noviembre</p>

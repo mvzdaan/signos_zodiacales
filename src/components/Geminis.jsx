@@ -2,7 +2,6 @@ function Geminis() {
   return (
     <article className="tarjeta">
       <div className="imagen-signo">
-        ♊
       </div>
       <div className="informacion-signo">
         <p className="fechas">21 de mayo – 20 de junio</p>

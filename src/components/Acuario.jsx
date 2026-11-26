@@ -2,7 +2,6 @@ function Acuario() {
   return (
     <article className="tarjeta">
       <div className="imagen-signo">
-        ♒
       </div>
       <div className="informacion-signo">
         <p className="fechas">20 de enero – 18 de febrero</p>

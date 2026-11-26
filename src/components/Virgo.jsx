@@ -2,7 +2,6 @@ function Virgo() {
   return (
     <article className="tarjeta">
       <div className="imagen-signo">
-        ♍
       </div>
       <div className="informacion-signo">
         <p className="fechas">23 de agosto – 22 de septiembre</p>

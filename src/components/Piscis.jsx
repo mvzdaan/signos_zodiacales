@@ -2,7 +2,6 @@ function Piscis() {
   return (
     <article className="tarjeta">
       <div className="imagen-signo">
-        ♓
       </div>
       <div className="informacion-signo">
         <p className="fechas">19 de febrero – 20 de marzo</p>

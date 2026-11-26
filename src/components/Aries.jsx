@@ -2,7 +2,6 @@ function Aries() {
   return (
     <article className="tarjeta">
       <div className="imagen-signo">
-        ♈
       </div>
       <div className="informacion-signo">
         <p className="fechas">21 de marzo – 19 de abril</p>

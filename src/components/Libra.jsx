@@ -2,7 +2,6 @@ function Libra() {
   return (
     <article className="tarjeta">
       <div className="imagen-signo">
-        ♎
       </div>
       <div className="informacion-signo">
         <p className="fechas">23 de septiembre – 22 de octubre</p>
